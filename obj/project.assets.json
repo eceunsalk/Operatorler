@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/operatorler.csproj",
+      "projectUniqueName": "/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/operatorler.csproj",
       "projectName": "operatorler",
-      "projectPath": "/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/operatorler.csproj",
+      "projectPath": "/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/operatorler.csproj",
       "packagesPath": "/Users/ece/.nuget/packages/",
-      "outputPath": "/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/obj/",
+      "outputPath": "/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ece/.nuget/NuGet/NuGet.Config"

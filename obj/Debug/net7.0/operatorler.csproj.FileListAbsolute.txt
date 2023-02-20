@@ -1,0 +1,11 @@
+/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/bin/Debug/net7.0/operatorler
+/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/bin/Debug/net7.0/operatorler.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/bin/Debug/net7.0/operatorler.pdb
+/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/obj/Debug/net7.0/operatorler.csproj.AssemblyReference.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/obj/Debug/net7.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/obj/Debug/net7.0/operatorler.AssemblyInfoInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/obj/Debug/net7.0/operatorler.AssemblyInfo.cs
+/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/obj/Debug/net7.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/obj/Debug/net7.0/operatorler.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/obj/Debug/net7.0/refint/operatorler.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/operatorler/obj/Debug/net7.0/operatorler.pdb
